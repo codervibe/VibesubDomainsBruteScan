@@ -17,7 +17,7 @@ warnings.simplefilter("ignore", category=UserWarning)
 max_threads = 1000
 
 # 定义版本号
-VERSION = "1.0.0"  # 这里设置你的版本号
+VERSION = "2.43.16"  # 这里设置你的版本号
 
 # 版本兼容性处理部分
 # 检查Python版本，如果是Python 3.5及以上版本，导入相关模块
